@@ -1,3 +1,3 @@
-#######  REACT STOPWATCH #######
+#######  REACT Tic-Tac-Toe Game #######
 
--> This stopwatch developed by using core React.
+-> This game developed by using core React.
